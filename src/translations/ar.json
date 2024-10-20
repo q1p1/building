@@ -1,0 +1,21 @@
+{
+  "title": "معلومات المبنى",
+  "floors": "عدد الأدوار",
+  "area": "مساحة المبنى (م²)",
+  "rooms": "عدد الغرف",
+  "doors": "عدد الأبواب",
+  "windows": "عدد النوافذ",
+  "calculate": "احسب",
+  "buildingDataTable": "جدول معلومات المبنى",
+  "materialsRequired": "المواد المطلوبة",
+  "iron": "الحديد (كجم)",
+  "bricks": "الطوب",
+  "cement": "الأسمنت (م³)",
+  "language": "اللغة",
+  "english": "الإنجليزية",
+  "arabic": "العربية",
+  "floor": "دور",
+  "floorArea": "مساحة الدور",
+  "popupTitle": "معلومات المبنى",
+  "popupContent": "مبنى مكون من {{floors}} أدوار بمساحة {{area}} م²، وعدد النوافذ: {{windows}}، وعدد الأبواب: {{doors}}."
+}

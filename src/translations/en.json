@@ -1,0 +1,21 @@
+{
+  "title": "Building Information",
+  "floors": "Number of Floors",
+  "area": "Building Area (m²)",
+  "rooms": "Number of Rooms",
+  "doors": "Number of Doors",
+  "windows": "Number of Windows",
+  "calculate": "Calculate",
+  "buildingDataTable": "Building Data Table",
+  "materialsRequired": "Materials Required",
+  "iron": "Iron (kg)",
+  "bricks": "Bricks",
+  "cement": "Cement (m³)",
+  "language": "Language",
+  "english": "English",
+  "arabic": "Arabic",
+  "floor": "Floor",
+  "floorArea": "Floor Area",
+  "popupTitle": "Building Information",
+  "popupContent": "Building with {{floors}} floors and an area of {{area}} m², with {{windows}} windows and {{doors}} doors."
+}
